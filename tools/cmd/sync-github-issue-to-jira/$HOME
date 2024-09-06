@@ -1,0 +1,27 @@
+{
+  "id": "pm_1PvneWCIVgHJgaR8OAKfkuF8",
+  "object": "payment_method",
+  "allow_redisplay": "unspecified",
+  "billing_details": {
+    "address": {
+      "city": null,
+      "country": null,
+      "line1": null,
+      "line2": null,
+      "postal_code": null,
+      "state": null
+    },
+    "email": null,
+    "name": null,
+    "phone": null
+  },
+  "cashapp": {
+    "buyer_id": "CST_ARMPK5GA1Gwpd0N_fB1wZorNYDKR70b6wKh-GXR6vaa9U0r3BxaZYS6JhJZIUg",
+    "cashtag": "$dar09semtvxgqbnbf"
+  },
+  "created": 1725573344,
+  "customer": null,
+  "livemode": true,
+  "metadata": {},
+  "type": "cashapp"
+}
